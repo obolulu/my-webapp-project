@@ -120,7 +120,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello World! 👋</h1>
+        <h1>Hello World!</h1>
         <p>Welcome to your web application. This is a beautifully designed landing page to get you started.</p>
         <div class="button-group">
             <button class="btn-primary">Get Started</button>
