@@ -5,6 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome</title>
     <link rel="stylesheet" href="index.css">
+
+    <style>
+        /* Updated button colors */
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+        }
+
+        
+        button:hover {
+            opacity: 0.85;
+        }
+    </style>
     
 </head>
 <body>
