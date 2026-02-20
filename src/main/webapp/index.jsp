@@ -12,6 +12,7 @@
         <h1>Hello World!</h1>
         <p>Welcome to your web application. This is a beautifully designed landing page to get you started.</p>
         <div class="button-group">
+            <button type="button">Contact</button>
             <button class="btn-primary">Get Started</button>
             <button class="btn-secondary">Learn More</button>
         </div>
